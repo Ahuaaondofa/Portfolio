@@ -69,7 +69,7 @@ TO maintain **DO no Harm Principle of safeguarding project interventions** it is
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://ahuaaondofa.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="Ahua Isaac CV_08_12_2024.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
