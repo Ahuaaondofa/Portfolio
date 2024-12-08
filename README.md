@@ -25,15 +25,15 @@ I supervise a team of over 25 enumerators and staff on data quality dimensions a
 
 *A look at of some of the projects I've been working on.*
 
-**SUCCESSFULLY cleaned, transformed and visualized B-SLiC project Registration data to easily show the data collection real time and summarize KPIs.**
-![image](1 anietie etuk data analytics car project.jpeg)
+**SUCCESSFULLY cleaned, transformed and visualized B-SLiC project Registration data to easily show the data collection in real-time and summarize KPIs .**
+![image](Dashboard HH REgistration.jpg)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+2024 Household registration in the southwest is key in the development and Humanitarian project.
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://ccfng1.sharepoint.com/:u:/s/EKITI_MEAL_TEAM/EYTt6ej9hIVLuNXZ4Mw94xQBiRr6XpRvpo2D7USUnBnocg?e=psQ2tD)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**2023 Baseline evaluation dashboard for B-SLiC project.**
 
 ![image](2 anietie etuk data analytics sales project.jpg)
 
