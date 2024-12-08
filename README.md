@@ -5,27 +5,27 @@ Hello! I'm Aondofa Isaac Ahua 🤓, a data analyst, Highly motivated and results
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
+## SKILLS
 
 *As the senior MEAL Associate with Caritas Nigeria on the B-SLiC project, I oversee project monitoring, evaluation, accountability and learning skills.*
 
-**- ✅ Project Data Analytics.**
+**- ✅ Project Data Cleaning and transformation.**
 I provide in-depth analysis and tailored solutions to help you make data-driven project decisions, and monitor project progress.
 
-**- ✅ Monitoring and evaluation.**
+**- ✅ Data wrangling and visualization.**
 I offer in-depth data analysis, and visualization, to track project progress against outcome by building models and dashboards for various project onsite monitoring activities. 
 
-**- ✅ Monitoring and evaluation.**
+**- ✅ Project Monitoring and evaluation.**
 I supervise a team of over 25 enumerators and staff on data quality dimensions and assessment. Ensuring project data meets high-quality standards.
 
 
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## MY PROJECTS
 
 *A look at of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**SUCCESSFULLY cleaned, transformed and visualized B-SLiC project Registration data to easily show the data collection real time and summarize KPIs.**
 ![image](1 anietie etuk data analytics car project.jpeg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
