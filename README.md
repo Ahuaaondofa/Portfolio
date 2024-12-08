@@ -77,7 +77,7 @@ TO maintain **DO no Harm Principle of safeguarding project interventions** it is
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@aondofaisaacahua6456">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://www.youtube.com/@aondofaisaacahua6456">Begining a new YouTube channel</a></td>
     </tr>
   </tbody>
 </table>
