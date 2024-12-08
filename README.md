@@ -1,4 +1,4 @@
-<!--Section 1: Introduce your self-->
+<!--Section 1: Introduce yourself -->
 ## ABOUT ME
 
 Hello! I'm Aondofa Isaac Ahua 🤓, a data analyst, Highly motivated and results-oriented Data Analyst with over 8 years of experience in data management, analytics, and reporting. I have strong technical skills in generative artificial intelligence, computer ethics, Power BI automation, Excel (365), and Kobo Collect to clean, analyze, and visualize data for informed decision-making. I have extensive experience in designing and implementing Monitoring, Evaluation, Accountability, and Learning (MEAL) frameworks, developing indicators, and collecting data for performance tracking.
@@ -28,24 +28,24 @@ I supervise a team of over 25 enumerators and staff on data quality dimensions a
 **SUCCESSFULLY cleaned, transformed and visualized B-SLiC project Registration data to easily show the data collection in real-time and summarize KPIs .**
 ![image](Dashboard HH REgistration.jpg)
 
-2024 Household registration in the southwest is key in the development and Humanitarian project.
+B-SLiC project 2024 Household registration is the first of its kind in from Caritas Nigeria in southwest Nigeria, this  was key in the development and Humanitarian project......
 
 
 [Read More](https://ccfng1.sharepoint.com/:u:/s/EKITI_MEAL_TEAM/EYTt6ej9hIVLuNXZ4Mw94xQBiRr6XpRvpo2D7USUnBnocg?e=psQ2tD)
 
 **2023 Baseline evaluation dashboard for B-SLiC project.**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](HH reg 1.jpg)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+The project started in 2022 August and this was its first assessment of the project communities........ 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://ccfng1.sharepoint.com/:u:/s/EKITI_MEAL_TEAM/EbW9wsUMNHhJnw5nNsMmHQYBy73FaCTlPtIT-9xs2xkg1A?e=ksTjiU)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Project Accountability Dashboard for tracking of feedback and performance of channels in the communities**
 
 ![image](3 anietie etuk data analytics agro project.jpg)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+TO maintain **DO no Harm Principle of safeguarding project interventions** it is crucial that the mechanism is strengthened for.... 
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
@@ -65,7 +65,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Ekiti, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
