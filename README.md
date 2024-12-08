@@ -43,7 +43,7 @@ The project started in 2022 August and this was its first assessment of the proj
 
 **Project Accountability Dashboard for tracking of feedback and performance of channels in the communities**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+![image](Accountability.jpg)
 
 TO maintain **DO no Harm Principle of safeguarding project interventions** it is crucial that the mechanism is strengthened for.... 
 
