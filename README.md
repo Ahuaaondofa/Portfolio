@@ -60,8 +60,7 @@ TO maintain **"Do No Harm Principle for Safeguarding Project Interventions"** it
       <td><a href="mailto:aondofaahua@gmail.com">aondofaahua@gmail.com</a></td>
     </tr>
     <tr>
-      <td>📞![image](https://github.com/user-attachments/assets/36516f0c-085f-4cae-8b3a-82bdee9f36ee)
-</td>
+      <td>📞</td>
       <td>(234) 703-281-7801</td>
     </tr>
     <tr>
