@@ -1,7 +1,7 @@
 <!--Section 1: Introduce yourself -->
 ## ABOUT ME
 
-Hello! I'm Aondofa Isaac Ahua 🤓, a Highly motivated and results-oriented Data Analyst with over 8 years of experience in data management, analytics, and reporting. I Leverage strong technical skills in generative artificial intelligence, computer ethics, Power BI automation, Power query and modelling, and Kobo Collect to clean, analyze, and visualize data for informed decision-making. I have extensive experience designing and implementing Monitoring, Evaluation, Accountability, and Learning (MEAL) frameworks, developing indicators, and collecting data for performance tracking.
+Hello! I’m Aondofa Isaac Ahua 🤓, a results-oriented Data Analyst with over 8 years of experience in data management and analytics. I utilize skills in generative AI, computer ethics, Power BI automation, and Kobo Collect to clean, analyze, and visualize data for decision-making. I also have experience in designing MEAL frameworks and developing indicators for performance tracking.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -47,7 +47,7 @@ The project started in 2022 August and this was its first assessment of the proj
 
 TO maintain **"Do No Harm Principle for Safeguarding Project Interventions"** it is crucial that the mechanism is strengthened for.... 
 
-<a href="PSEAH.pptm">View the training questions on PSEAH here (pdf file)</a>
+<a href="PSEAH.pdf">View the training questions on PSEAH here (pdf file)</a>
 
 
 ## CONTACT DETAILS
