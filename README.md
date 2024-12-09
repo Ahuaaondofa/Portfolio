@@ -1,7 +1,7 @@
 <!--Section 1: Introduce yourself -->
 ## ABOUT ME
 
-Hello! I'm Aondofa Isaac Ahua 🤓, a data analyst, Highly motivated and results-oriented Data Analyst with over 8 years of experience in data management, analytics, and reporting. I have strong technical skills in generative artificial intelligence, computer ethics, Power BI automation, Excel (365), and Kobo Collect to clean, analyze, and visualize data for informed decision-making. I have extensive experience in designing and implementing Monitoring, Evaluation, Accountability, and Learning (MEAL) frameworks, developing indicators, and collecting data for performance tracking.
+Hello! I'm Aondofa Isaac Ahua 🤓, a Highly motivated and results-oriented Data Analyst with over 8 years of experience in data management, analytics, and reporting. I Leverage strong technical skills in generative artificial intelligence, computer ethics, Power BI automation, Power query and modelling, and Kobo Collect to clean, analyze, and visualize data for informed decision-making. I have extensive experience designing and implementing Monitoring, Evaluation, Accountability, and Learning (MEAL) frameworks, developing indicators, and collecting data for performance tracking.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -13,7 +13,7 @@ Hello! I'm Aondofa Isaac Ahua 🤓, a data analyst, Highly motivated and results
 I provide in-depth analysis and tailored solutions to help you make data-driven project decisions, and monitor project progress.
 
 **- ✅ Data wrangling and visualization.**
-I offer in-depth data analysis, and visualization, to track project progress against outcome by building models and dashboards for various project onsite monitoring activities. 
+I offer in-depth data analysis and visualization to track project progress against outcome by building models and dashboards for various project on-site monitoring activities. 
 
 **- ✅ Project Monitoring and evaluation.**
 I supervise a team of over 25 enumerators and staff on data quality dimensions and assessment. Ensuring project data meets high-quality standards.
@@ -23,9 +23,9 @@ I supervise a team of over 25 enumerators and staff on data quality dimensions a
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
 
-*A look at of some of the projects I've been working on.*
+*A look at some of the projects I've been working on.*
 
-**SUCCESSFULLY cleaned, transformed and visualized B-SLiC project Registration data to easily show the data collection in real-time and summarize KPIs .**
+**Successfully cleaned, transformed, and visualized B-SLiC project registration data to display real-time data collection and summarize KPIs easily.**
 ![image](Dashboard HH REgistration.jpg)
 
 B-SLiC project 2024 Household registration is the first of its kind in from Caritas Nigeria in southwest Nigeria, this  was key in the development and Humanitarian project......
@@ -45,7 +45,7 @@ The project started in 2022 August and this was its first assessment of the proj
 
 ![image](Accountability.jpg)
 
-TO maintain **DO no Harm Principle of safeguarding project interventions** it is crucial that the mechanism is strengthened for.... 
+TO maintain **"Do No Harm Principle for Safeguarding Project Interventions"** it is crucial that the mechanism is strengthened for.... 
 
 <a href="PSEAH.pptm">View the training questions on PSEAH here (pdf file)</a>
 
@@ -60,7 +60,8 @@ TO maintain **DO no Harm Principle of safeguarding project interventions** it is
       <td><a href="mailto:aondofaahua@gmail.com">aondofaahua@gmail.com</a></td>
     </tr>
     <tr>
-      <td>📞</td>
+      <td>📞![image](https://github.com/user-attachments/assets/36516f0c-085f-4cae-8b3a-82bdee9f36ee)
+</td>
       <td>(234) 703-281-7801</td>
     </tr>
     <tr>
