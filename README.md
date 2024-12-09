@@ -73,7 +73,7 @@ TO maintain **"Do No Harm Principle for Safeguarding Project Interventions"** it
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/aija4real">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://linkedin.com/in/aija4real">My Certifications and more on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
