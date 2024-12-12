@@ -13,7 +13,7 @@ Hello! I’m Aondofa Isaac Ahua 🤓, a results-oriented Data Analyst with over 
 I provide in-depth analysis and tailored solutions to help you make data-driven project decisions, and monitor project progress.
 
 **- ✅ Data wrangling and visualization.**
-I offer in-depth data analysis and visualization to track project progress against outcome by building models and dashboards for various project on-site monitoring activities. 
+I perform in-depth data analysis and visualization to track project progress against outcome by building models and dashboards for various project on-site monitoring activities. 
 
 **- ✅ Project Monitoring and evaluation.**
 I supervise a team of over 25 enumerators and staff on data quality dimensions and assessment. Ensuring project data meets high-quality standards.
