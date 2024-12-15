@@ -34,7 +34,7 @@ Identifying and addressing data discrepancies, inconsistencies, or inaccuracies 
 *A look at some of the projects I've been working on.*
 
 **Successfully cleaned, transformed, and visualized B-SLiC project registration data to display real-time data collection progress and summarize its KPIs easily.**
-![image](Dashboard HH REgistration.jpg)
+![image](NEW DASHBORD.jpg)
 
 B-SLiC project 2024 Household registration is the first of its kind in from Caritas Nigeria in southwest Nigeria, this  was key in the development and Humanitarian project......
 
