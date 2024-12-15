@@ -18,7 +18,7 @@ I conduct in-depth data analysis and visualization to monitor project progress a
 **- ✅ Project database building, maintenance and communication.**
 I design, develop, and maintain a range of project tools, including questionnaires (Household Registration, Needs Assessment, Post-Distribution, and Market Assessment) and project management tools (IPTT, Issue Log, MOV Tracker, and Risk Register). I utilize digital platforms such as Kobo Collect Server, and Microsoft Office Suites (Excel, OneDrive, Power BI), to ensure data security and integrity. I effectively communicate updates and changes to diverse stakeholders, promoting transparency and collaboration throughout the project lifecycle.
 
-**- ✅ Project Fieldwork and Problem-Solving Situations.**
+**- ✅ Project Fieldwork and Problem-Solving Skills.**
 
 **_I am continuously conducting the following fieldwork_**
 Household surveys and focus group discussions to gather data on project outcomes. Observing and documenting project activities, such as distributions, trainings, and community events. Collecting and analyzing data on project indicators, such as beneficiary numbers, service delivery, and outcome metrics. Conducting market assessments and price monitoring to inform project interventions. And collaborating with community leaders, local authorities, and other stakeholders to gather insights and feedback on project implementation.
