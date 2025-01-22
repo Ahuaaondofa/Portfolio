@@ -38,6 +38,11 @@ Identifying and addressing data discrepancies, inconsistencies, or inaccuracies 
 
 B-SLiC project 2024 Household registration is the first of its kind in from Caritas Nigeria in southwest Nigeria, this  was key in the development and Humanitarian project......
 
+**Successfully cleaned, transformed, and visualized B-SLiC project Market Assessement to track real-time prices of items within markets of intervention for Phase 2: Year 1**
+![image](NEW DASHBORD.jpg)
+
+B-SLiC project 2024 Household registration is the first of its kind in from Caritas Nigeria in southwest Nigeria, this  was key in the development and Humanitarian project......
+
 
 [Read More](https://ccfng1.sharepoint.com/:u:/s/EKITI_MEAL_TEAM/EYTt6ej9hIVLuNXZ4Mw94xQBiRr6XpRvpo2D7USUnBnocg?e=psQ2tD)
 
