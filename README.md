@@ -54,9 +54,9 @@ The project started in 2022 August and this was its first assessment of the proj
 
 [Read More](https://ccfng1.sharepoint.com/:u:/s/EKITI_MEAL_TEAM/EbW9wsUMNHhJnw5nNsMmHQYBy73FaCTlPtIT-9xs2xkg1A?e=ksTjiU)
 
-**Norwegian Ministry of Foreign Affairs (NMFA) DASHBOARD 2020 - 2024**
+**Norwegian Ministry of Foreign Affairs (NMFA) DASHBOARD 2020 - 2024 - Using Excel**
 
-![image]()
+![image](NAMFA DASBOARD.jpg)
 
 **Project Accountability Dashboard for tracking of feedback and performance of channels in the communities**
 
