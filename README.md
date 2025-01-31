@@ -1,7 +1,7 @@
 <!--Section 1: Introduce yourself -->
 ## ABOUT ME
 
-Hello! I’m Aondofa Isaac Ahua 🤓, a results-oriented Data Analyst with over 8 years of experience in data management and analytics. I utilize skills in Excel, generative AI, computer ethics, Power BI automation, and Kobo Collect to clean, analyze, and visualize data for decision-making. I also have experience in designing MEAL frameworks and developing indicators for performance tracking.
+Hello! I’m Aondofa Isaac Ahua 🤓, a results-oriented Data Analyst with over 8 years of experience in data management and analytics. I utilize skills in Excel, generative AI, computer ethics, Power BI automation, and Kobo Collect to clean, analyze, and visualize data for decision-making. I also have experience designing MEAL frameworks and developing indicators for performance tracking.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -16,7 +16,7 @@ I provide comprehensive mentorship to team members, enhancing their understandin
 I conduct in-depth data analysis and visualization to monitor project progress against outcomes. I design and develop models and dashboards to track on-site monitoring activities, providing actionable insights that inform decision-making and drive project success. 
 
 **- ✅ Project database building, maintenance and communication.**
-I design, develop, and maintain a range of project tools, including questionnaires (Household Registration, Needs Assessment, Post-Distribution, and Market Assessment) and project management tools (IPTT, Issue Log, MOV Tracker, and Risk Register). I utilize digital platforms such as Kobo Collect Server, and Microsoft Office Suites (Excel, OneDrive, Power BI), to ensure data security and integrity. I effectively communicate updates and changes to diverse stakeholders, promoting transparency and collaboration throughout the project lifecycle.
+I design, develop, and maintain various project tools, including questionnaires (Household Registration, Needs Assessment, Post-Distribution, and Market Assessment) and project management tools (IPTT, Issue Log, MOV Tracker, and Risk Register). I utilize digital platforms such as Kobo Collect Server, and Microsoft Office Suites (Excel, OneDrive, Power BI), to ensure data security and integrity. I effectively communicate updates and changes to diverse stakeholders, promoting transparency and collaboration throughout the project lifecycle.
 
 **- ✅ Project Fieldwork and Problem-Solving Skills.**
 
@@ -53,6 +53,10 @@ B-SLiC project 2024 Market Assessment is the first of its kind in southwest Nige
 The project started in 2022 August and this was its first assessment of the project communities........ 
 
 [Read More](https://ccfng1.sharepoint.com/:u:/s/EKITI_MEAL_TEAM/EbW9wsUMNHhJnw5nNsMmHQYBy73FaCTlPtIT-9xs2xkg1A?e=ksTjiU)
+
+**Norwegian Ministry of Foreign Affairs (NMFA) DASHBOARD 2020 - 2024**
+
+![image]()
 
 **Project Accountability Dashboard for tracking of feedback and performance of channels in the communities**
 
