@@ -52,9 +52,7 @@ B-SLiC project 2024 Market Assessment is the first of its kind in southwest Nige
 
 **2025 Distribution monitoring dashboard for B-SLiC project.**
 
-![image](HH reg 1.jpg)
-
-
+![image](DIstribution 2025.jpg)
 
 
 The project started in 2022 August and this was its first assessment of the project communities........ 
