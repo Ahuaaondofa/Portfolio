@@ -65,7 +65,7 @@ The project started in 2022 August and this was its first assessment of the proj
 
 **Project Accountability Dashboard for tracking of feedback and performance of channels in the communities**
 
-![image](Accountability.jpg)
+![image](accountability dashboard 2025.jpg)
 
 TO maintain **"Do No Harm Principle for Safeguarding Project Interventions"** it is crucial that the mechanism is strengthened for.... 
 
