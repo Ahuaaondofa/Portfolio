@@ -1,7 +1,7 @@
 <!--Section 1: Introduce yourself -->
 ## ABOUT ME
 
-Hello! I’m Aondofa Isaac Ahua 🤓, a results-oriented Data Analyst with over 8 years of experience in data management and analytics. I utilize skills in Excel, generative AI, Power query, Power BI automation, and Kobo Collect to clean, analyze, and visualize data for decision-making. I also have experience designing MEAL frameworks and developing indicators for performance tracking.
+Hello! I’m Aondofa Isaac Ahua 🤓, a results-oriented Data Analyst with over 8 years of experience in data management and analytics. I utilize Excel, generative AI, Power query, Power BI automation, and Kobo Collect skills to clean, analyze, and visualize data for decision-making. I have extensive experience designing MEAL frameworks and developing indicators for performance tracking.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -50,7 +50,9 @@ B-SLiC project 2024 Market Assessment is the first of its kind in southwest Nige
 
 ![image](HH reg 1.jpg)
 
-**2025 Distribution monitoring dashboard for B-SLiC project.**
+**Distribution monitoring dashboards 2022 to date for B-SLiC project.**
+
+![image](DIstribution 2025.jpg)
 
 ![image](DIstribution 2025.jpg)
 
