@@ -1,7 +1,7 @@
 <!--Section 1: Introduce yourself -->
 ## ABOUT ME
 
-Hello! I’m Aondofa Isaac Ahua 🤓, a results-oriented Data Analyst with over 8 years of experience in data management and analytics. I utilize Excel, generative AI, Power Query, Power BI automation, and Kobo Collect skills to clean, analyze, and visualize data for decision-making. I have extensive experience designing MEAL frameworks and developing indicators for performance tracking.
+Hello! I’m Aondofa Isaac Ahua 🤓, a results-oriented Data Analyst with over 8 years of experience in results reporting, data story telling and management and analytics. I utilize Excel, AI tools, Power Query, Power BI automation, and Kobo Collect skills to clean, analyze, and visualize data for decision-making. I have extensive experience designing MEAL frameworks and developing indicators for performance tracking.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
