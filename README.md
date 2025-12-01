@@ -96,7 +96,7 @@ TO maintain **"Do No Harm Principle for Safeguarding Project Interventions"** it
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="Ahua Isaac CV_08_12_2024.pdf">Download my CV</a></td>
+      <td><a href="MAIN CV_01_12_2025.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
