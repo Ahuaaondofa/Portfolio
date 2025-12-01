@@ -7,6 +7,7 @@ Hello! I’m Aondofa Isaac Ahua 🤓, a results-oriented Data Analyst with over 
 *Certificate of competency in result-based monitoring and evaluation, impact evidence-informed programming*
 
 <!--Mention your top/relevant skills here - core and soft skills-->
+
 ## SKILLS
 
 *As the senior MEAL Associate with Caritas Nigeria on the B-SLiC project, I oversee project monitoring, evaluation, accountability and learning.*
