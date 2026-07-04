@@ -1,110 +1,114 @@
-<!--Section 1: Introduce yourself -->
+<!--Section 1: About-->
+<h1 align="center">Aondofa Isaac Ahua</h1>
+<p align="center">Senior MEAL Associate | Data Analytics & Evidence-Informed Programming</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MEAL-Specialist-2E8B57?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-11%2B%20Years-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Ekiti%2C%20Nigeria-orange?style=flat-square" />
+</p>
+
+---
+
 ## ABOUT ME
 
-Hello! I’m Aondofa Isaac Ahua 🤓, a results-oriented Data Analyst with over 11 years of experience in results reporting, data storytelling and management and analytics. I utilize Excel, AI tools, Power Query, Power BI automation, and Kobo Collect skills to clean, analyze, and visualize data for decision-making. I have extensive experience designing MEAL frameworks and developing indicators for performance tracking.
+I am a Senior MEAL Associate with 11+ years of experience designing and managing MEL frameworks, data systems, and results-based management processes across public health, agriculture, and livelihoods programs. I have led over 60-person cross-functional field teams to register and verify over 25,000 households across 8 LGAs, and built automated Power BI dashboards integrating KoboToolbox via Power Query M-code for real-time performance tracking. I work with Excel, Power Query, Power BI, KoboToolbox, and OpenMRS to manage data end-to-end, from collection to reporting, and I design logframes and indicators that hold projects accountable to results.
 
-*Certificate of competency in RB monitoring and evaluation, for impact evidence-informed programming received in 2025*
-![image](Cert.jpg)  
+📜 *Certificate of Competency in Results-Based Monitoring and Evaluation, for evidence-informed programming (2025)*
+![Certificate](Cert.jpg)
 
-<!--Mention your top/relevant skills here - core and soft skills-->
+---
 
 ## SKILLS
 
-*As the senior MEAL Associate with Caritas Nigeria on the B-SLiC project, I oversee project monitoring, evaluation, accountability and learning.*
+As Senior MEAL Associate with Caritas Nigeria on the B-SLiC project, I lead the project's monitoring, evaluation, accountability, and learning function.
 
-**- ✅ Project Monitoring and Evaluation (M&E) Expertise.**
-I provide comprehensive mentorship to team members, enhancing their understanding of M&E methodologies and equipping them to design and implement effective M&E frameworks. I develop and disseminate tailored tools and guidance documents, enabling the team to track project progress, measure impact, and drive data-informed decision-making. 
+**Project Monitoring and Evaluation**
+I mentor team members on M&E methodologies and support them to design and apply effective M&E frameworks. I develop tools and guidance documents that help the team track project progress, measure results, and inform data-driven decisions.
 
-**- ✅ Data wrangling and visualization.**
-I conduct in-depth data analysis and visualization to monitor project progress against outcomes. I design and develop models and dashboards to track on-site monitoring activities, providing actionable insights that inform decision-making and drive project success. 
+**Data Wrangling and Visualization**
+I analyze and visualize project data to monitor progress against outcomes. I build models and dashboards for on-site monitoring activities, providing insights that support decision-making.
 
-**- ✅ Project database building, maintenance and communication.**
-I design, develop, and maintain various project tools, including questionnaires (Household Registration, Needs Assessment, Post-Distribution, and Market Assessment) and project management tools (IPTT, Issue Log, MOV Tracker, and Risk Register). I utilize digital platforms such as Kobo Collect Server, and Microsoft Office Suites (Excel, OneDrive, Power BI), to ensure data security and integrity. I effectively communicate updates and changes to diverse stakeholders, promoting transparency and collaboration throughout the project lifecycle.
+**Database Building, Maintenance and Communication**
+I design and maintain project tools, including Household Registration, Needs Assessment, Post-Distribution, and Market Assessment questionnaires, as well as management tools such as the IPTT, Issue Log, MOV Tracker, and Risk Register. I use Kobo Collect Server and Microsoft Office (Excel, OneDrive, Power BI) to maintain data security and integrity, and communicate updates clearly to stakeholders.
 
-**- ✅ Project Fieldwork and Problem-Solving Skills.**
+**Fieldwork and Problem-Solving**
 
-**_I am continuously conducting the following fieldwork_**
-Household surveys and focus group discussions to gather data on project outcomes. Observing and documenting project activities, such as distributions, trainings, and community events. Collecting and analyzing data on project indicators, such as beneficiary numbers, service delivery, and outcome metrics. Conducting market assessments and price monitoring to inform project interventions. And collaborating with community leaders, local authorities, and other stakeholders to gather insights and feedback on project implementation.
+*Fieldwork:*
+Household surveys and focus group discussions on project outcomes. Observation and documentation of distributions, trainings, and community events. Data collection and analysis on project indicators, including participant numbers and service delivery. Market assessments and price monitoring. Engagement with community leaders and local authorities to gather feedback on implementation.
 
-**_Problem-Solving Situations_**
-Identifying and addressing data discrepancies, inconsistencies, or inaccuracies that affect project reporting and decision-making. Overcoming logistical obstacles, such as transportation issues or security concerns, that hinder fieldwork and data collection by planning early and making emergency plans. Addressing community concerns, rumours, or misconceptions that may impact project acceptance and participation. Troubleshooting technical issues with data collection tools to ensure smooth data collection and transmission. Managing stakeholder expectations and competing demands from donors, government officials, and community leaders.
+*Problem-Solving:*
+Identifying and resolving data discrepancies that affect reporting and decisions. Planning around logistical and security constraints that affect fieldwork. Addressing community concerns or misconceptions about project activities. Troubleshooting data collection tools to keep data transmission running smoothly. Managing expectations across donors, government officials, and community stakeholders.
 
+---
 
+## TOOLS & TECHNOLOGY
 
-<!--Section 2: List 3-4 key projects-->
-## MY PROJECTS
+**MEL Frameworks:** Logical Framework (Logframe), Theory of Change, Results-Based Management, IPTT
 
-*A look at some of the projects I've been working on.*
+**Data Platforms:** KoboToolbox (Advanced XLSForm), Power BI, Power Query (M-code), REDCap, ODK, OpenMRS, NMRS
 
-**Successfully cleaned, transformed, and visualized B-SLiC project registration data to display real-time data collection progress and summarize its KPIs easily.**
-![image](NEW DASHBORD.jpg)
+**Productivity Suites:** Microsoft 365 (SharePoint, Teams), Google Workspace
 
-B-SLiC project 2024 Household registration is the first of its kind in from Caritas Nigeria in southwest Nigeria, this  was key in the development and Humanitarian project......
+**Data Quality:** Data Quality Assurance (DQA), Data Triangulation, GPS Mapping, Biometric Enrollment
 
-**Successfully cleaned, transformed, and visualized B-SLiC project Market assessment to track real-time prices of items within markets of intervention for Phase 2: Year 1**
-![image](das 2.jpg)
+**Evaluation Methods:** Baseline & Endline Surveys, Needs Assessments, Process & Outcome Evaluations, After Action Reviews, Most Significant Change
 
-B-SLiC project 2024 Market Assessment is the first of its kind in southwest Nigeria and made tracking seamless.
+**Compliance & Safeguarding:** Data Protection & Consent, PSEAH, Donor Compliance (USAID, EU, UN), Research Ethics
 
+---
 
-[Read More](DASHBOARD B-SLiC MARKET ASSESSMENT 2024.pdf)
+## CERTIFICATIONS
 
-**2023 Baseline evaluation dashboard for B-SLiC project.**
+- MEAL DPro — Humanitarian Leadership Academy (2023)
+- Project Management for Development Professionals (PMD Pro) — PM4NGOs (2023)
+- Monitoring & Evaluation in Global Health — University of Washington (2021)
+- Data Analysis & Visualisation — AltSchool Africa / 3MTT Programme (2024)
+- 5-Day Power BI Workshop — Data Lead Africa (2024)
+- Career Essentials in Generative AI — Microsoft & LinkedIn Learning (2024)
+- Oracle Cloud Infrastructure Foundations Associate — Oracle University (2022)
 
-![image](HH reg 1.jpg)
+---
 
-**Distribution monitoring dashboards 2022 to date for B-SLiC project.**
+## PROJECTS
 
-![image](DIstribution 2025.jpg)
+**B-SLiC Household Registration Dashboard**
+Cleaned, transformed, and visualized B-SLiC registration data to track real-time data collection progress and summarize KPIs. This was Caritas Nigeria's first registration dashboard of its kind in South West Nigeria, supporting the project's development and humanitarian planning.
+![Registration Dashboard](NEW%20DASHBORD.jpg)
 
-![image](Agric Inputs Dashboard.jpg)
+**B-SLiC Market Assessment Dashboard (Phase 2, Year 1)**
+Built a dashboard tracking real-time prices across intervention markets, the first of its kind for the project in South West Nigeria.
+![Market Assessment Dashboard](das%202.jpg)
+[Read the full report](DASHBOARD%20B-SLiC%20MARKET%20ASSESSMENT%202024.pdf)
 
+**B-SLiC Baseline Evaluation Dashboard (2023)**
+![Baseline Dashboard](HH%20reg%201.jpg)
 
-The project started in 2022 August and this was its first assessment of the project communities........ 
+**Distribution Monitoring Dashboards (2022 to date)**
+Tracking distribution activities since the project's launch in August 2022, starting with the first community-level assessment.
+![Distribution Dashboard](DIstribution%202025.jpg)
+![Agric Inputs Dashboard](Agric%20Inputs%20Dashboard.jpg)
+[Read more](https://ccfng1.sharepoint.com/:u:/s/EKITI_MEAL_TEAM/EbW9wsUMNHhJnw5nNsMmHQYBy73FaCTlPtIT-9xs2xkg1A?e=ksTjiU)
 
-[Read More](https://ccfng1.sharepoint.com/:u:/s/EKITI_MEAL_TEAM/EbW9wsUMNHhJnw5nNsMmHQYBy73FaCTlPtIT-9xs2xkg1A?e=ksTjiU)
+**Norwegian Ministry of Foreign Affairs (NMFA) Dashboard (2020-2024)**
+Built in Excel.
+![NMFA Dashboard](NAMFA%20DASBOARD.jpg)
 
-**Norwegian Ministry of Foreign Affairs (NMFA) DASHBOARD 2020 - 2024 - Using Excel**
+**Project Accountability Dashboard**
+Tracks feedback and channel performance across communities, supporting the Do No Harm principle for safeguarding project interventions.
+![Accountability Dashboard](accountability%20dashboard%202025.jpg)
+[View PSEAH training questions (PDF)](PSEAH.pdf)
 
-![image](NAMFA DASBOARD.jpg)
+---
 
-**Project Accountability Dashboard for tracking of feedback and performance of channels in the communities**
+## CONTACT
 
-![image](accountability dashboard 2025.jpg)
-
-TO maintain **"Do No Harm Principle for Safeguarding Project Interventions"** it is crucial that the mechanism is strengthened for.... 
-
-<a href="PSEAH.pdf">View the training questions on PSEAH here (pdf file)</a>
-
-
-## CONTACT DETAILS
-
-*Let’s connect and see how we can make a difference together!*
-<table>
-  <tbody>
-    <tr>
-      <td>📧</td>
-      <td><a href="mailto:aondofaahua@gmail.com">aondofaahua@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td>📞</td>
-      <td>(234) 703-281-7801</td>
-    </tr>
-    <tr>
-      <td>📍</td>
-      <td>Ekiti, Nigeria</td>
-    </tr>
-    <tr>
-      <td>⬇️</td>
-      <td><a href="Ahua_Aondofa_Isaac_MASTER_CV.pdf">Download my CV</a></td>
-    </tr>
-    <tr>
-      <td>🌐</td>
-      <td><a href="https://linkedin.com/in/aija4real">My Certifications and more on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@aondofaisaacahua6456">Begining a new YouTube channel</a></td>
-    </tr>
-  </tbody>
-</table>
+| | |
+|---|---|
+| 📧 Email | [aondofaahua@gmail.com](mailto:aondofaahua@gmail.com) |
+| 📞 Phone | (234) 703-281-7801 |
+| 📍 Location | Ekiti, Nigeria |
+| ⬇️ CV | [Download](Ahua_Aondofa_Isaac_MASTER_CV.pdf) |
+| 🌐 LinkedIn | [Certifications and more](https://linkedin.com/in/aija4real) |
+| 💼 Portfolio | [ahuaaondofa.github.io/Portfolio](https://ahuaaondofa.github.io/Portfolio) |
+| 📺 YouTube | [New channel](https://www.youtube.com/@aondofaisaacahua6456) |
