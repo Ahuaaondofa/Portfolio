@@ -1,7 +1,7 @@
 <!--Section 1: Introduce yourself -->
 ## ABOUT ME
 
-Hello! I’m Aondofa Isaac Ahua 🤓, a results-oriented Data Analyst with over 8 years of experience in results reporting, data story telling and management and analytics. I utilize Excel, AI tools, Power Query, Power BI automation, and Kobo Collect skills to clean, analyze, and visualize data for decision-making. I have extensive experience designing MEAL frameworks and developing indicators for performance tracking.
+Hello! I’m Aondofa Isaac Ahua 🤓, a results-oriented Data Analyst with over 11 years of experience in results reporting, data storytelling and management and analytics. I utilize Excel, AI tools, Power Query, Power BI automation, and Kobo Collect skills to clean, analyze, and visualize data for decision-making. I have extensive experience designing MEAL frameworks and developing indicators for performance tracking.
 
 *Certificate of competency in RB monitoring and evaluation, for impact evidence-informed programming received in 2025*
 ![image](Cert.jpg)  
@@ -96,7 +96,7 @@ TO maintain **"Do No Harm Principle for Safeguarding Project Interventions"** it
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="MAIN CV_01_12_2025.pdf">Download my CV</a></td>
+      <td><a href="Ahua_Aondofa_Isaac_MASTER_CV.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
