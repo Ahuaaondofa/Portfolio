@@ -20,7 +20,7 @@
 
 ## ABOUT ME
 
-I am a Senior MEAL Associate with 11+ years of experience designing and managing MEL frameworks, data systems, and results-based management processes across public health, agriculture, and livelihoods programs. I have led 60+ person cross-functional field teams to register and verify over 25,000 households across 8+ LGAs, and built automated Power BI dashboards that integrate KoboToolbox via Power Query M-code for real-time performance tracking. I work with Excel, Power Query, Power BI, KoboToolbox, and OpenMRS to manage data end-to-end, from collection to reporting, and I design logframes and indicators that hold projects accountable to results.
+I am a Senior MEAL Associate with 11+ years of experience designing and managing MEL frameworks, data systems, and results-based management processes across public health, agriculture, and livelihoods programs. I have led 60+-person cross-functional field teams to register and verify over 25,000 households across 8+ LGAs, and built automated Power BI dashboards that integrate with KoboToolbox via Power Query M-code for real-time performance tracking. I work with Excel, Power Query, Power BI, KoboToolbox, and OpenMRS to manage data end-to-end, from collection to reporting, and I design logframes and indicators that hold projects accountable to results.
 
 📜 *Certificate of Competency in Results-Based Monitoring and Evaluation, for evidence-informed programming (2025)*
 ![Certificate](Cert.jpg)
@@ -46,7 +46,7 @@ I design and maintain project tools, including Household Registration, Needs Ass
 Household surveys and focus group discussions on project outcomes. Observation and documentation of distributions, trainings, and community events. Data collection and analysis on project indicators, including participant numbers and service delivery. Market assessments and price monitoring. Engagement with community leaders and local authorities to gather feedback on implementation.
 
 *Problem-Solving:*
-Identifying and resolving data discrepancies that affect reporting and decisions. Planning around logistical and security constraints that affect fieldwork. Addressing community concerns or misconceptions about project activities. Troubleshooting data collection tools to keep data transmission running smoothly. Managing expectations across donors, government officials, and community stakeholders.
+Identifying and resolving data discrepancies that affect reporting and decisions. Planning around logistical and security constraints that affect fieldwork. Addressing community concerns or misconceptions about project activities. Troubleshoot data collection tools to keep data transmission running smoothly. Managing expectations across donors, government officials, and community stakeholders.
 
 ---
 
@@ -134,7 +134,7 @@ Tracks feedback and channel performance across communities, supporting the Do No
 | 📧 Email | [aondofaahua@gmail.com](mailto:aondofaahua@gmail.com) |
 | 📞 Phone | (234) 703-281-7801 |
 | 📍 Location | Ekiti, Nigeria |
-| ⬇️ CV | [Download](Ahua_Aondofa_Isaac_MASTER_CV.pdf) |
+| ⬇️ CV | [Download](Ahua_Aondofa_Isaac_MASTER_CV_updated.pdf) |
 | 🌐 LinkedIn | [Certifications and more](https://linkedin.com/in/aija4real) |
 | 💼 Portfolio | [ahuaaondofa.github.io/Portfolio](https://ahuaaondofa.github.io/Portfolio) |
 | 🗣️ Languages | English (Fluent), Hausa (Basic), French (Basic) |
