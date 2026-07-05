@@ -10,9 +10,17 @@
 
 ---
 
+## AT A GLANCE
+
+| 11+ Years | 25,000+ | 8 LGAs+ | 60+ |
+|---|---|---|---|
+| Experience | Households Registered | Covered | Team Members Led |
+
+---
+
 ## ABOUT ME
 
-I am a Senior MEAL Associate with 11+ years of experience designing and managing MEL frameworks, data systems, and results-based management processes across public health, agriculture, and livelihoods programs. I have led over 60-person cross-functional field teams to register and verify over 25,000 households across 8 LGAs, and built automated Power BI dashboards integrating KoboToolbox via Power Query M-code for real-time performance tracking. I work with Excel, Power Query, Power BI, KoboToolbox, and OpenMRS to manage data end-to-end, from collection to reporting, and I design logframes and indicators that hold projects accountable to results.
+I am a Senior MEAL Associate with 11+ years of experience designing and managing MEL frameworks, data systems, and results-based management processes across public health, agriculture, and livelihoods programs. I have led 60+ person cross-functional field teams to register and verify over 25,000 households across 8+ LGAs, and built automated Power BI dashboards that integrate KoboToolbox via Power Query M-code for real-time performance tracking. I work with Excel, Power Query, Power BI, KoboToolbox, and OpenMRS to manage data end-to-end, from collection to reporting, and I design logframes and indicators that hold projects accountable to results.
 
 📜 *Certificate of Competency in Results-Based Monitoring and Evaluation, for evidence-informed programming (2025)*
 ![Certificate](Cert.jpg)
@@ -46,7 +54,7 @@ Identifying and resolving data discrepancies that affect reporting and decisions
 
 **MEL Frameworks:** Logical Framework (Logframe), Theory of Change, Results-Based Management, IPTT
 
-**Data Platforms:** KoboToolbox (Advanced XLSForm)/ASERL, Power BI/TaE, Power Query (M-code), REDCap, ODK, OpenMRS, NMRS
+**Data Platforms:** KoboToolbox (Advanced XLSForm)/ASER, Power BI/TaRL, Power Query (M-code), REDCap, ODK, OpenMRS, NMRS
 
 **Productivity Suites:** Microsoft 365 (SharePoint, Teams), Google Workspace
 
@@ -60,7 +68,7 @@ Identifying and resolving data discrepancies that affect reporting and decisions
 
 ## CERTIFICATIONS
 
-- Competency in Results-Based Monitoring and Evaluation, for evidence-informed programming -Clones house Foundation (Sept 2025)
+- Competency in Results-Based Monitoring and Evaluation, for evidence-informed programming -Clones House Foundation (Sept 2025)
 - MEAL DPro — Humanitarian Leadership Academy (2023)
 - Project Management for Development Professionals (PMD Pro) — PM4NGOs (2023)
 - Monitoring & Evaluation in Global Health — University of Washington (2021)
@@ -72,7 +80,23 @@ Identifying and resolving data discrepancies that affect reporting and decisions
 
 ---
 
-## PROJECTS
+## CAREER JOURNEY
+
+I started in biometric data enrollment and voter registration (2011–2016) before moving into MEAL roles. At ECEWS, I was promoted from Data Entry Clerk to Senior M&E Assistant within two years, managing longitudinal patient records across OpenMRS and NMRS and maintaining a 90%+ data performance rate on HIV/TB indicators. I later moved into agriculture and livelihoods with Caritas Nigeria, where I now lead MEAL on the B-SLiC project.
+
+**Health Information Systems:** OpenMRS, NMRS, National Data Repository (NDR), LIMS
+**AI & Emerging Tech:** I apply generative AI tools daily for data cleaning, insight generation, and report drafting, and hold a Generative AI credential from Microsoft and LinkedIn Learning.
+
+---
+
+## EDUCATION
+
+**Bachelor of Engineering, Agricultural & Environmental Engineering**
+University of Agriculture, Makurdi, Benue State (2009–2014)
+Second Class Honours, Upper Division (3.99). Thesis: Design, Construction & Performance Evaluation of a 5° Compound Parabolic Concentrator (Solar Collector) 
+Awarded - 3rd place, in Inter-University Essay Writing Competition — Nigeria Society of Engineers (2011)
+
+---
 
 **B-SLiC Household Registration Dashboard**
 Cleaned, transformed, and visualized B-SLiC registration data to track real-time data collection progress and summarize KPIs. This was Caritas Nigeria's first registration dashboard of its kind in South West Nigeria, supporting the project's development and humanitarian planning.
@@ -113,4 +137,5 @@ Tracks feedback and channel performance across communities, supporting the Do No
 | ⬇️ CV | [Download](Ahua_Aondofa_Isaac_MASTER_CV.pdf) |
 | 🌐 LinkedIn | [Certifications and more](https://linkedin.com/in/aija4real) |
 | 💼 Portfolio | [ahuaaondofa.github.io/Portfolio](https://ahuaaondofa.github.io/Portfolio) |
+| 🗣️ Languages | English (Fluent), Hausa (Basic), French (Basic) |
 | 📺 YouTube | [New channel](https://www.youtube.com/@aondofaisaacahua6456) |
