@@ -24,7 +24,7 @@ I am a Senior MEAL Associate with 11+ years of experience designing and managing
 As Senior MEAL Associate with Caritas Nigeria on the B-SLiC project, I lead the project's monitoring, evaluation, accountability, and learning function.
 
 **Project Monitoring and Evaluation**
-I mentor team members on M&E methodologies and support them to design and apply effective M&E frameworks. I develop tools and guidance documents that help the team track project progress, measure results, and inform data-driven decisions.
+I mentor team members on M&E methodologies and support them in designing and applying effective M&E frameworks. I develop tools and guidance documents that help the team track project progress, measure results, and inform data-driven decisions.
 
 **Data Wrangling and Visualization**
 I analyze and visualize project data to monitor progress against outcomes. I build models and dashboards for on-site monitoring activities, providing insights that support decision-making.
@@ -46,7 +46,7 @@ Identifying and resolving data discrepancies that affect reporting and decisions
 
 **MEL Frameworks:** Logical Framework (Logframe), Theory of Change, Results-Based Management, IPTT
 
-**Data Platforms:** KoboToolbox (Advanced XLSForm), Power BI, Power Query (M-code), REDCap, ODK, OpenMRS, NMRS
+**Data Platforms:** KoboToolbox (Advanced XLSForm)/ASERL, Power BI/TaE, Power Query (M-code), REDCap, ODK, OpenMRS, NMRS
 
 **Productivity Suites:** Microsoft 365 (SharePoint, Teams), Google Workspace
 
@@ -60,6 +60,7 @@ Identifying and resolving data discrepancies that affect reporting and decisions
 
 ## CERTIFICATIONS
 
+- Competency in Results-Based Monitoring and Evaluation, for evidence-informed programming -Clones house Foundation (Sept 2025)
 - MEAL DPro — Humanitarian Leadership Academy (2023)
 - Project Management for Development Professionals (PMD Pro) — PM4NGOs (2023)
 - Monitoring & Evaluation in Global Health — University of Washington (2021)
@@ -67,6 +68,7 @@ Identifying and resolving data discrepancies that affect reporting and decisions
 - 5-Day Power BI Workshop — Data Lead Africa (2024)
 - Career Essentials in Generative AI — Microsoft & LinkedIn Learning (2024)
 - Oracle Cloud Infrastructure Foundations Associate — Oracle University (2022)
+- Principles of STDs/HIV Research — University of Washington (2017)
 
 ---
 
